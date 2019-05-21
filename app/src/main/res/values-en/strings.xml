@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">conversor</string>
+    <string name="titulo">Units Converter</string>
+    <string name="temperatura">Temperature Units</string>
+    <string name="CelsiusToFahrenheit">Celsius To Fahrenheit</string>
+    <string name="FahrenheitToCelsius">Fahrenheit To Celsius</string>
+    <string name="CelsiusToKelvin">Celsius To Kelvin</string>
+    <string name="KenvilToCeslsius">Kelvin To Celsius</string>
+    <string name="distancia">Distance Unit</string>
+    <string name="MeterToCentimeter">Meter To Centimeter</string>
+    <string name="CentimeterToMeter">Centimeter To Meter</string>
+    <string name="CentimeterToInch">Centimeter To Inch</string>
+    <string name="InchToCentimeter">Ich To Centimeter</string>
+    <string name="Unit">Unidad</string>
+    <string name="Result">Resultado</string>
+    <string name="Calcular">Calcular</string>
+</resources>
